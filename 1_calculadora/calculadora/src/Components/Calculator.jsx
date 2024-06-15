@@ -79,7 +79,7 @@ setPendingValue(null);
   };
 
   return (
-    <div className="calculator">
+      <div className="calculator">
       <div className="complete-operation">{completeOperation}</div>
       <div className="display">{currentValue}</div>
       <div className="buttons">
