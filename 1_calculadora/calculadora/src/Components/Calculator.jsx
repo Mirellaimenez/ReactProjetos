@@ -92,8 +92,9 @@ setPendingValue(null);
         )}
         <button onClick={handleCalculate}>=</button>
       </div>
+      
     </div>
-  );
+  )
 }
 
 export default Calculator;
